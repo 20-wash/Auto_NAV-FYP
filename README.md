@@ -1,7 +1,5 @@
 # Auto_NAV-FYP
 This repository contains the code and documentation for our Final Year Project on Autonomous Navigation. The project focuses on developing a autonomous system that is capable of autonomous movement inside the campus environment.
-<<<<<<< HEAD
-=======
 
 The demostration of our autonomous system shown below: 
 <!-- <p align="center">
@@ -73,4 +71,3 @@ Asst. Prof. Biman Rimal
 
 #### Note:
 I am currently in the process of refining and cleaning the code, as well as enhancing the documentation, before uploading the final version to the repository. If you require any additional information or have any questions, please feel free to contact me at the following email addresses: official.biswash0716@gmail.com : 077bme014.biswash@pcampus.edu.np
->>>>>>> 74b5bc1 (Initial commit)

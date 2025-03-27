@@ -33,7 +33,7 @@ The software required for the project includes:
 4. STMCubeMX  
 5. OpenCV  
 
-![alt text](Annotation_components.png)
+![alt text](Annotation_component.png)
 
 
 ### Map Overlay of Robotics Club and PCD of the Environment
